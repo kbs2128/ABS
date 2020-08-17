@@ -1,0 +1,2 @@
+# ABS
+a new repository
